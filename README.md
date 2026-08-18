@@ -192,16 +192,16 @@ My goal is to build applications that are:
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=LuvinF&show_icons=true&hide_border=true&theme=transparent"
-    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=LuvinF&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    height="180"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuvinF&layout=compact&hide_border=true&theme=transparent"
-    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuvinF&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    height="180"
   />
 </p>
 
