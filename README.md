@@ -148,8 +148,6 @@ A modern personal portfolio built with Next.js, TypeScript and Tailwind CSS with
 
 **Built with:** Next.js · TypeScript · Tailwind CSS
 
-🔗 **Live Portfolio:** [Visit Website](https://luvinf.github.io/react-portfolio/)
-
 🔗 **Repository:** [View Project](https://github.com/LuvinF/nextjs_custom_portfolio)
 
 ---
